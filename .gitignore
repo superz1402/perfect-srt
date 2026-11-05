@@ -1,0 +1,21 @@
+# python
+__pycache__/
+*.pyc
+
+# job workdirs (inputs are broadcast captions — never commit them)
+jobs/
+job/
+work/
+*-job/
+
+# cue stores and scratch
+*.pkl
+cues.json
+source.json
+source_index.txt
+report.txt
+interleave/
+
+# os/editor
+.DS_Store
+*.tmp
