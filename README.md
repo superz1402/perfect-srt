@@ -113,3 +113,11 @@ See `examples/cultwo-show-you-deserve-it.md` for a real job: what
 the machine draft got wrong (19+ group-name mangles, one "a snake"),
 how the system fixed it, and the two lyric spans where the ♪ rule
 applied.
+
+---
+
+## Project status
+
+**Completed project** — verified in the portfolio audit of **7 November 2026** (README, codebase and project state reviewed).
+
+_Last verified: 7 November 2026_
