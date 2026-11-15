@@ -20,7 +20,16 @@
       "BB bus line",
       "Beckmon",
       "Baekmon",
-      "Bammon"
+      "Bammon",
+      "SU GREED",
+      "SUGREED",
+      "Su Greed",
+      "KBL",
+      "Baby Monsa",
+      "Babymonsa",
+      "Baby Monsta",
+      "Babymonsta",
+      "Baby Monsterz"
     ]
   },
   "members": [
@@ -166,5 +175,5 @@
       "canonical": "BABYMONSTER"
     }
   ],
-  "version": 2
+  "version": 3
 }
